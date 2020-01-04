@@ -3,6 +3,7 @@ module github.com/simonswine/crd-jsonnet-gen
 go 1.13
 
 require (
+	github.com/fatih/structtag v1.2.0
 	github.com/go-logr/logr v0.1.0
 	github.com/google/go-jsonnet v0.13.0
 	github.com/ksonnet/ksonnet-lib v0.1.12
